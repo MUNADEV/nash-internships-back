@@ -2,7 +2,7 @@
 
 API REST para el proyecto Nash Internships
 
-
+Estado: En desarrollo
 
 ## Prerrequisitos
 
